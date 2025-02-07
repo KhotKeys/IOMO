@@ -120,13 +120,13 @@ a{
 }
 
 .bg-landing-page  a.landing-btn
-{background: transparent;border: 1px solid;
+{border: 1px solid;
 color: #fff;padding: 16px 30px;text-transform: uppercase;
 display: block;width: 25%;margin: auto;margin-top: 20px;
 text-align: center;font-weight: bold;}
 
 .bg-landing-page  a.landing-btn:hover
-{background: #fff;color: var(--main-coloor);transition: 1s ease;}
+{color: var(--main-coloor);transition: 1s ease;}
 
 
 .bg-landing-page h1

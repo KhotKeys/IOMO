@@ -126,7 +126,7 @@ display: block;width: 25%;margin: auto;margin-top: 20px;
 text-align: center;font-weight: bold;}
 
 .bg-landing-page  a.landing-btn:hover
-{color: var(--main-coloor);transition: 1s ease;}
+{background: #fff;color: var(--main-coloor);transition: 1s ease;}
 
 
 .bg-landing-page h1
